@@ -66,11 +66,11 @@ Scaffold SplashView({String info = ''}) {
           child: Container(),
           flex: 3,
         ),
-        "DBMS Mini Project"
-            .text
-            .fontWeight(FontWeight.bold)
-            .fontFamily(bold)
-            .make(),
+        // "DBMS Mini Project"
+        //     .text
+        //     .fontWeight(FontWeight.bold)
+        //     .fontFamily(bold)
+        //     .make(),
         5.heightBox
       ],
     )),
